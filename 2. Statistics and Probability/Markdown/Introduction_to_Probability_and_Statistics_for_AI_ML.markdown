@@ -32,6 +32,7 @@ In AI/ML, these tools help machines learn from data—like predicting if an emai
 Here’s the plan to learn Probability and Statistics for AI/ML, broken into modules. Each module builds on the last, like stacking blocks to make a tower.
 
 ### Module 1: Exploratory Data Analysis
+
 - **What**: Looking at data to find patterns, like sorting toys by color.
 - **Includes**: Data types, averages, spreads, and charts.
 - **Why Necessary**: Helps you know your data before using it in ML.
@@ -39,6 +40,7 @@ Here’s the plan to learn Probability and Statistics for AI/ML, broken into mod
 - **Applications**: Cleaning sales data, spotting trends.
 
 ### Module 2: Data and Sampling Distributions
+
 - **What**: Learning how to pick data samples and understand their patterns, like tasting a few cookies to guess the batch.
 - **Includes**: Sampling, confidence intervals, and common distributions.
 - **Why Necessary**: Makes sure your data represents the big picture.
@@ -46,39 +48,12 @@ Here’s the plan to learn Probability and Statistics for AI/ML, broken into mod
 - **Applications**: Testing website changes, estimating population stats.
 
 ### Module 3: Statistical Experiments and Significance Testing
+
 - **What**: Running tests to see if changes matter, like trying two recipes to see which tastes better.
 - **Includes**: A/B testing, p-values, and hypothesis checks.
 - **Why Necessary**: Confirms if your ML model improvements are real.
 - **ML Relevance**: Validates model performance.
 - **Applications**: Comparing ad designs, testing feature impact.
-
-### Module 4: Regression and Prediction
-- **What**: Predicting one thing from another, like guessing test scores from study time.
-- **Includes**: Linear regression, model fitting.
-- **Why Necessary**: Builds models to forecast outcomes.
-- **ML Relevance**: Core for predictive analytics.
-- **Applications**: Predicting house prices, sales trends.
-
-### Module 5: Classification
-- **What**: Sorting data into categories, like picking ripe vs. unripe fruit.
-- **Includes**: Naive Bayes, logistic regression, evaluation metrics.
-- **Why Necessary**: Classifies data for decisions.
-- **ML Relevance**: Used in spam filters, image recognition.
-- **Applications**: Diagnosing diseases, sentiment analysis.
-
-### Module 6: Statistical Machine Learning
-- **What**: Using stats to make smart models, like teaching a robot to recognize voices.
-- **Includes**: K-Nearest Neighbors, tree models, boosting.
-- **Why Necessary**: Handles complex data patterns.
-- **ML Relevance**: Powers advanced ML techniques.
-- **Applications**: Fraud detection, customer segmentation.
-
-### Module 7: Unsupervised Learning
-- **What**: Finding hidden groups in data, like sorting books by theme without labels.
-- **Includes**: Principal Components Analysis, clustering.
-- **Why Necessary**: Discovers patterns without guidance.
-- **ML Relevance**: Used in customer grouping, data reduction.
-- **Applications**: Market basket analysis, anomaly detection.
 
 ## How We’ll Learn
 
